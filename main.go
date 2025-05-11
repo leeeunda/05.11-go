@@ -7,7 +7,7 @@ import (
 	"net/http"      // HTTP 서버 구성
 	"strconv"       // 문자열 → 숫자 변환
 
-	"go-rest-api/models" // Todo 데이터 구조 (구현한 모델 import) -> 프로젝트 이름으로
+	"05.11-go/models" // Todo 데이터 구조 (구현한 모델 import) -> 프로젝트 이름으로
 
 	"github.com/gorilla/mux" // 라우터 패키지 (경로 핸들링에 사용)
 
